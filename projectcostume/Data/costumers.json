@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "Name": "Samurai",
+    "Surname": "Samuraiova",
+    "PhoneNumber": "+9946664433"
+  },
+  {
+    "Id": 3,
+    "Name": "Relax",
+    "Surname": "Relaxova",
+    "PhoneNumber": "+994348282"
+  },
+  {
+    "Id": 4,
+    "Name": "Kobra",
+    "Surname": "Kobraova",
+    "PhoneNumber": "+9944593992"
+  }
+]

@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\projectcostume\projectcostume\bin\Debug\net6.0\projectcostume.exe
+C:\Users\user\Desktop\projectcostume\projectcostume\bin\Debug\net6.0\projectcostume.deps.json
+C:\Users\user\Desktop\projectcostume\projectcostume\bin\Debug\net6.0\projectcostume.runtimeconfig.json
+C:\Users\user\Desktop\projectcostume\projectcostume\bin\Debug\net6.0\projectcostume.dll
+C:\Users\user\Desktop\projectcostume\projectcostume\bin\Debug\net6.0\projectcostume.pdb
+C:\Users\user\Desktop\projectcostume\projectcostume\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\projectcostume\projectcostume\obj\Debug\net6.0\projectcostume.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\projectcostume\projectcostume\obj\Debug\net6.0\projectcostume.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\projectcostume\projectcostume\obj\Debug\net6.0\projectcostume.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\projectcostume\projectcostume\obj\Debug\net6.0\projectcostume.AssemblyInfo.cs
+C:\Users\user\Desktop\projectcostume\projectcostume\obj\Debug\net6.0\projectcostume.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\projectcostume\projectcostume\obj\Debug\net6.0\projectcostume.csproj.CopyComplete
+C:\Users\user\Desktop\projectcostume\projectcostume\obj\Debug\net6.0\projectcostume.dll
+C:\Users\user\Desktop\projectcostume\projectcostume\obj\Debug\net6.0\refint\projectcostume.dll
+C:\Users\user\Desktop\projectcostume\projectcostume\obj\Debug\net6.0\projectcostume.pdb
+C:\Users\user\Desktop\projectcostume\projectcostume\obj\Debug\net6.0\projectcostume.genruntimeconfig.cache
+C:\Users\user\Desktop\projectcostume\projectcostume\obj\Debug\net6.0\ref\projectcostume.dll
